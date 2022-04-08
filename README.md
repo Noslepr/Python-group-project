@@ -4,6 +4,12 @@ This is a clone of the website instructables, where you can post your own projec
 
 Live site: https://step-by-step-app.herokuapp.com/
 
+## Tech Stack
+
+Client: JavaScript, NodeJS, React, Redux
+
+Server: PostgreSQL, Python, Flask, SQLAlchemy
+
 ## Getting started
 
 To view and use this application, you can either navigate to the live site(https://step-by-step-app.herokuapp.com/) and login as a new or demo user, or download the project locally:
@@ -46,8 +52,4 @@ Viewing a project
 ![image](https://user-images.githubusercontent.com/86488501/162485747-6b31bd31-6c6f-448b-ad3c-552c99554e11.png)
 
    
-## Tech Stack
 
-Client: JavaScript, NodeJS, React, Redux
-
-Server: PostgreSQL, Python, Flask, SQLAlchemy
