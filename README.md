@@ -40,6 +40,11 @@ flask run
  Homepage
  ![image](https://user-images.githubusercontent.com/86488501/162483426-72aa9d96-142c-4146-801a-d553b0b0e4c8.png)
 
+Viewing a project
+![image](https://user-images.githubusercontent.com/86488501/162485507-648e0f81-e49a-410e-af78-080ab6f779a8.png)
+![image](https://user-images.githubusercontent.com/86488501/162485665-dea0d91b-f2d0-4ada-8e8d-8d211f1bd03a.png)
+![image](https://user-images.githubusercontent.com/86488501/162485747-6b31bd31-6c6f-448b-ad3c-552c99554e11.png)
+
    
 ## Tech Stack
 
