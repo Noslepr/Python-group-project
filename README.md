@@ -16,7 +16,9 @@ Server: PostgreSQL, Python, Flask, SQLAlchemy
 
 To view and use this application, you can either navigate to the live site(https://step-by-step-app.herokuapp.com/) and login as a new or demo user, or download the project locally:
 
-1. Clone this repository  ```bash
+1. Clone this repository 
+ 
+ ```bash
    git clone https://github.com/appacademy-starters/python-project-starter.git
    ```
 
