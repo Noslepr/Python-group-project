@@ -2,7 +2,7 @@
 
 This is a clone of the website instructables, where you can post your own projects or search for projects made by others.
 
-##Live site
+## Live site
 
 https://step-by-step-app.herokuapp.com/
 
