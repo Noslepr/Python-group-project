@@ -36,8 +36,10 @@ flask run
 
 8. Open another terminal and change directory into /react-app and run the React app npm start
 
+## Screenshots
+ Homepage
+ ![image](https://user-images.githubusercontent.com/86488501/162483426-72aa9d96-142c-4146-801a-d553b0b0e4c8.png)
 
- 
    
 ## Tech Stack
 
